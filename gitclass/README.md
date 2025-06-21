@@ -1,2 +1,0 @@
-# gitclass
-welcome to LLLLL
